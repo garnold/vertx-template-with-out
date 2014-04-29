@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/resources" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/dist" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="lib">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/lib/bundles" />
+          <root url="file://$MODULE_DIR$/lib/jars" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/lib/sources" />
+        </SOURCES>
+        <jarDirectory url="file://$MODULE_DIR$/lib/bundles" recursive="true" />
+        <jarDirectory url="file://$MODULE_DIR$/lib/jars" recursive="true" />
+        <jarDirectory url="file://$MODULE_DIR$/lib/sources" recursive="true" type="SOURCES" />
+      </library>
+    </orderEntry>
+  </component>
+</module>
+
