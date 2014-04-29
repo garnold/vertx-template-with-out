@@ -15,6 +15,7 @@
       <entry name="?*.tld" />
       <entry name="?*.ftl" />
       <entry name="mod.json" />
+      <entry name="vertx_classpath.txt" />
     </wildcardResourcePatterns>
     <annotationProcessing>
       <profile default="true" name="Default" enabled="false">

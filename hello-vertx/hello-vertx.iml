@@ -24,6 +24,7 @@
         <jarDirectory url="file://$MODULE_DIR$/lib/sources" recursive="true" type="SOURCES" />
       </library>
     </orderEntry>
+    <orderEntry type="library" name="vertx" level="project" />
   </component>
 </module>
 
