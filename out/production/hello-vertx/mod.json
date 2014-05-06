@@ -1,0 +1,4 @@
+{
+    "main": "com.intentmedia.vertx.hello.HelloVertx",
+    "auto-redeploy": true
+}
